@@ -48,5 +48,7 @@
 
 ##Working with Your Own Repository
 > You can add files such as corpus data, recordings, and images to your repository simply by saving or copying them to the directory on your computer and then pulling them into the master repository \(as stated above\).  These can then be included into your files.
->For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
-+[Participant 1 Interview](\test_recording.m4a)
+
+<p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
+
+<p> ![Participant 1 Interview](\test_recording.m4a?raw=true)
