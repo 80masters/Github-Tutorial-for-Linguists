@@ -76,7 +76,7 @@ layout: default
 + With this functionality, you can have impressive appendices and links throughout your work.  I will lieave you with your imagination.
 
 ##Implications for Research
-> Two of the biggest considerations are copyright and, by extension, ethics.  +[Creative Commons license](https://creativecommons.org/licenses/) should be stated.  Also, if others have access to the files you post and any of them contain data directly from participants in your study, this will need to be reflected in your ethics form all study participants are required to sign beforehand.
+> Two of the biggest considerations are copyright and, by extension, ethics.  [Creative Commons license](https://creativecommons.org/licenses/) should be stated.  Also, if others have access to the files you post and any of them contain data directly from participants in your study, this will need to be reflected in your ethics form all study participants are required to sign beforehand.
 
 > One of the most powerful aspects of collaboration permitted by github is the fact that anyone can have access to your completed works.  Before you fret, remember that github tracks the changes you make to your repository, so you can always revert back.  Thinking more progressively, others can pick up on additional areas of research or investigate other matters in further detail.  For example, you do a study on repair strategies non-native speakers of a language make when converting a word or group of sounds into their native tongue.  Other researchers might expand by including other groups of sounds or simply model your research with a completely different langauge pair!  In short, github can make it easier for your work to be cited!!
 
