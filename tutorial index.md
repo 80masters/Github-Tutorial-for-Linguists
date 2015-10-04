@@ -62,7 +62,7 @@ layout: default
 
 > For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-![Participant 1 Interview](\test_recording.mp3)
+![Participant 1 Interview](\test_recording.mp3?raw=true)
 
 <p><a href="\test_recording.mp3">Participant 1 Interview</a></p>
 
@@ -70,7 +70,7 @@ layout: default
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-<p><align="center">![funky sound wave](\sound_waves.jpg?raw=true)</align></p>
+<p><align="center"><img src="\sound_waves.jpg"></align></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
