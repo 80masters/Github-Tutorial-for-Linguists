@@ -51,4 +51,4 @@
 
 <p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> ![Participant 1 Interview](\test_recording.m4a?raw=true)
+<p> ![Participant 1 Interview](\test_recording.mp3?raw=true)
