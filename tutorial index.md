@@ -62,7 +62,7 @@ layout: default
 
 > For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> +[Participant 1 Interview](\test_recording.mp3) </p>
+<p>![Participant 1 Interview](\test_recording.mp3)</p>
 
 > Others can then listen to the files after downloading them.
 
