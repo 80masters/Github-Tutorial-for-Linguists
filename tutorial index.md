@@ -62,13 +62,13 @@ layout: default
 
 > For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p>![Participant 1 Interview](\test_recording.mp3)</p>
+> ![Participant 1 Interview](\test_recording.mp3)
 
 > Others can then listen to the files after downloading them.
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-<p><center>![funky sound wave2](\sound_wave.jpg?raw=true)</center></p>
+<center>![funky sound wave2](\sound_wave.jpg?raw=true)</center>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
