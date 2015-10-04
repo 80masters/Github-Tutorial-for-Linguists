@@ -51,8 +51,4 @@
 
 <p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> something here <audio controls>	<source src="https://github.com/80masters/Github-Tutorial-for-Linguists/blob/master/test_recording.mp3"> <type='audio/mp3'> </audio>
-
-<p> as compared against:
-
 <p> [Participant 1 Interview](\test_recording.mp3)
