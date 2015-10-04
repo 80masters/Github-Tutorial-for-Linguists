@@ -44,6 +44,7 @@ layout: default
 9. you now have an additional folder within your computer's github folder that contains the files for this tutorial that you can edit, copy-n-paste, and/or delete at your leisure!
 
 >If you wanted to make a change to this tutorial like an update or adding a photo or fixing a typo or adding a section on functionality, then you would:
+
 1. open the tutorial index file using Sulbime Text
 2. make the changes
 3. save the file \(in sublime text\)
@@ -68,12 +69,10 @@ layout: default
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-> ![funky sound wave](\images\sound_wave.jpg?raw=true)
-
 <p><img src="\images\sound_wave.jpg" alt="Funky Sound Wave"></p>
 
 ###Notes:
-> + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
+> + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but selecting what to download gives power to the user/reader.
 + With this functionality, you can have impressive appendices and links throughout your work.  I will lieave you with your imagination.
 
 ##Implications for Research
