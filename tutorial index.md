@@ -70,7 +70,7 @@ layout: default
 
 > ![funky sound wave](\sound_wave.jpg?raw=true)
 
-{% include figure.html src="sound_wave.jpg" caption="funky sound wave" %}
+{% include figure.html src="..\sound_wave.jpg" caption="funky sound wave" %}
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
