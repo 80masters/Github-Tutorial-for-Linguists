@@ -66,7 +66,13 @@ layout: default
 
 <p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
 
-> The HTML coding for it is: \<p>\<a href="\audio\test_recording.mp3">Participant 1 Interview\</a>\</p>
+> The HTML coding for it is:
+
+>\<p>\<a href="\audio\test_recording.mp3">Participant 1 Interview\</a>\</p>
+
+> whereas the markdown coding for it would be:
+
+> \!\[Participant 1 Interview\]\(\audio\test_recording.mp3\)
 
 > Others can then listen to the files after downloading them.
 
@@ -101,7 +107,11 @@ layout: default
 * funky formatting using HTML tags
 * using wget to backup webpages or an entire website
 
-> If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So \<b\>Something important\</b\> becomes
+> If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So
+
+> \<b\>Something important\</b\>
+
+> becomes
 
 <p><b>Something important</b></p>
 
