@@ -70,7 +70,7 @@ layout: default
 
 > ![funky sound wave](\sound_wave.jpg?raw=true)
 
-<p><img src="\sound_wave.jpg" align="center"></p>
+<p><center><img src="\sound_wave.jpg"></center></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
