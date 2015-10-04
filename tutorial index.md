@@ -60,19 +60,19 @@ layout: default
 ##Working with Your Own Repository
 > You can add files such as corpus data, recordings, and images to your repository simply by saving or copying them to the directory on your computer and then pulling them into the master repository \(as stated above\).  These can then be included into your files.
 
-> <p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
+> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> ![Participant 1 Interview](\test_recording.mp3) </p>
+<p> +[Participant 1 Interview](\test_recording.mp3) </p>
 
 > Others can then listen to the files after downloading them.
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-<p><center>![](\sound_wave.jpg?raw=true)</center></p>
+<p><center>![funky sound wave2](\sound_wave.jpg?raw=true)</center></p>
 
 <p><center>...as compared against without the raw portion...</center></p>
 
-<p><center>![funky sound wave](\sound_wave.jpg)</center></p>
+<p><center>![funky sound wave1](\sound_wave.jpg)</center></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
