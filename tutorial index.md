@@ -86,7 +86,7 @@ layout: default
 
 > with the markdown version:
 
->\!\[Funky Sound Wave\]\(\images\sound_wave.jpg?raw=true\)
+>\!\[Funky Sound Wave\]\(https://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//audio/sound_wave.jpg?raw=true\)
 
 ###Notes:
 > + It is currently unclear to me how to embed audio into markdown even after attempts at using HTML code, but selecting what to download does give power to the user/reader.
