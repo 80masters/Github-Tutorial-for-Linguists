@@ -62,15 +62,13 @@ layout: default
 
 > For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-![Participant 1 Interview](\test_recording.mp3?raw=true)
-
 <p><a href="\test_recording.mp3">Participant 1 Interview</a></p>
 
 > Others can then listen to the files after downloading them.
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-<p><align="center"><img src="\sound_waves.jpg"></align></p>
+> ![funky sound wave](\sound_waves.jpg?raw=true)
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
@@ -86,6 +84,10 @@ layout: default
 > Additional functionalities for github you may be interested in exploring include:
 * inserting tables - not too difficult to do with the | key!
 * insert diagrams \(in the form of pictures\)
-* creating pdfs from markdown files 
+* creating pdfs from markdown files
+
+> If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So <bold>Something important</bold> becomes
+
+<bold>Something important</bold>
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
