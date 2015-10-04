@@ -68,7 +68,9 @@ layout: default
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-> ![funky sound wave](\sound_waves.jpg?raw=true)
+> ![funky sound wave](\sound_wave.jpg?raw=true)
+
+<p><img src="\sound_wave.jpg" align="center"></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
@@ -83,11 +85,16 @@ layout: default
 
 > Additional functionalities for github you may be interested in exploring include:
 * inserting tables - not too difficult to do with the | key!
-* insert diagrams \(in the form of pictures\)
 * creating pdfs from markdown files
+* funky formatting using HTML tags
 
-> If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So \<b\>Something important\<\/b\> becomes
+> If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So \<b\>Something important\</b\> becomes
 
 <p><b>Something important</b></p>
+
+> And no, you are not limited to only programming in either markdown or html.  You can alternate between markdown and html tagging on a paragraph basis.
+
+##Conclusion
+> So now you know how to work with repositories with github and I hope this inpsires you to expand your important linguistic research with others in the field who can both use and expand on it.
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
