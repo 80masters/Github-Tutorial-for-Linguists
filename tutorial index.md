@@ -29,6 +29,7 @@ layout: default
 ###Notes
 + You can expect Sublime Text to replace word processors and even front page!!! Sublime text creates markdown files, which allow you to create files just like this one!
 + Do download the desktop version of github and be sure to save your files in the GitHub folder you specify during installation from hereonin!
++ Coding using Sublime Text can be done using markdown or HTML.
 
 ##Next Step: Fork and Pull
 >One thing you can do to give yourself a leg up so that you have some code to copy and paste, is to **Fork** this repository of files I have created for this tutorial.  To do so, follow these steps:
@@ -65,7 +66,7 @@ layout: default
 
 <p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
 
-> The HTML coding for it is: <p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
+> The HTML coding for it is: \<p>\<a href="\audio\test_recording.mp3">Participant 1 Interview\</a>\</p>
 
 > Others can then listen to the files after downloading them.
 
@@ -75,7 +76,7 @@ layout: default
 
 > Compare the HTML version:
 
-> <p><img src="\images\sound_wave.jpg" alt="Funky Sound Wave"></p>
+> \<p>\<img src="\images\sound_wave.jpg" alt="Funky Sound Wave">\</p>
 
 > with the markdown version:
 
@@ -109,9 +110,10 @@ layout: default
 ##Conclusion
 > So now you know how to work with repositories with github and I hope this inpsires you to expand your important linguistic research with others in the field who can both use and expand on it.
 
-> The following are some highly useful links I would recommend:
-* [wget tutorial](http://programminghistorian.org/lessons/automated-downloading-with-wget)
+> The following are some links I found very useful:
 * [creating pages in markdown (i.e. markdown syntax)](https://daringfireball.net/projects/markdown/syntax)
 * [github privacy pricing](https://github.com/pricing)
+* [wget tutorial](http://programminghistorian.org/lessons/automated-downloading-with-wget)
+
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
