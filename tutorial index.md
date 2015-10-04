@@ -37,7 +37,7 @@ layout: default
 1. go to the [github website](https://github.com) and login if you already haven't
 2. in the search bar type **tutorial linguists**
 3. click on the link that reads **80masters/github-tutorial-for-linguists**
-4. on the top-right of the screen, you will see a button labelled **Fork**, click it ![Fork](\images\fork.jpg)
+4. on the top-right of the screen, you will see a button labelled **Fork**, click it ![Fork](https://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//images/fork.jpg)
 5. on the desktop version, click on the **\+** in the top-left corner
 6. click on the word **clone** that should appear near the top-center of the screen
 7. click on **Github-Tutorial-for-Linguists**
