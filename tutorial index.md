@@ -2,7 +2,7 @@
 title: Github Tutorial for Linguistics
 author:
 - Richard Soulliere
-date: 2015-10-06
+date: 2015-10-04
 reviewers:
 
 layout: default
@@ -27,8 +27,8 @@ layout: default
 + [sublime text](http://www.sublimetext.com/2)
 
 ###Notes
-+ You can expect Sublime Text to replace word processors and even front page!!!
-+ Do download the desktop version of github and be sure to save your files in that GitHub folder from hereonin.
++ You can expect Sublime Text to replace word processors and even front page!!! Sublime text creates markdown files, which allow you to create files just like this one!
++ Do download the desktop version of github and be sure to save your files in the GitHub folder you specify during installation from hereonin!
 
 ##Next Step: Fork and Pull
 >One thing you can do to give yourself a leg up so that you have some code to copy and paste, is to **Fork** this repository of files I have created for this tutorial.  To do so, follow these steps:
@@ -36,7 +36,7 @@ layout: default
 1. go to the [github website](https://github.com) and login if you already haven't
 2. in the search bar type **tutorial linguists**
 3. click on the link that reads **80masters/github-tutorial-for-linguists**
-4. on the top-right of the screen, you will see a button labelled **Fork**, click it
+4. on the top-right of the screen, you will see a button labelled **Fork**, click it ![Fork](\images\fork.png)
 5. on the desktop version, click on the **\+** in the top-left corner
 6. click on the word **clone** that should appear near the top-center of the screen
 7. click on **Github-Tutorial-for-Linguists**
@@ -65,15 +65,25 @@ layout: default
 
 <p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
 
+> The HTML coding for it is: <p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
+
 > Others can then listen to the files after downloading them.
 
-> Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
+> Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true (when using markdown, not HTML) at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
 <p><img src="\images\sound_wave.jpg" alt="Funky Sound Wave"></p>
 
+> Compare the HTML version:
+
+> <p><img src="\images\sound_wave.jpg" alt="Funky Sound Wave"></p>
+
+> with the markdown version:
+
+>\!\[Funky Sound Wave\]\(\images\sound_wave.jpg\)
+
 ###Notes:
-> + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but selecting what to download gives power to the user/reader.
-+ With this functionality, you can have impressive appendices and links throughout your work.  I will lieave you with your imagination.
+> + It is currently unclear to me how to embed audio into markdown even after attempts at using HTML code, but selecting what to download does give power to the user/reader.
++ With this functionality, you can have impressive appendices and links throughout your work.  I will leave you with your imagination.
 
 ##Implications for Research
 > Two of the biggest considerations are copyright and, by extension, ethics.  [Creative Commons license](https://creativecommons.org/licenses/) should be stated.  Also, if others have access to the files you post and any of them contain data directly from participants in your study, this will need to be reflected in your ethics form all study participants are required to sign beforehand.
@@ -82,10 +92,13 @@ layout: default
 
 > Referencing is made substantially more user-friendly in terms of being able to check out sources with simple clicks as is the case with hyperlinks embedded in text, photos, and other files.  Trains of thought can migrate to maglev with this capability!  That said, how will all of you decide who publishes which part with traditional journal article publishing?
 
+> If you are at all concerned about privacy, then you may pay a little and github will keep your repository private.  You will then be able to control who can fork \(i.e. have access and contribute to\) your work.  Public and private versions of a repository is also possible. You can even start public and go private or vice versa, plus you can delete one network \(the public or private\) and the other will remain. In short, the choice is yours.
+
 > Additional functionalities for github you may be interested in exploring include:
 * inserting tables - not too difficult to do with the | key!
 * creating pdfs from markdown files
 * funky formatting using HTML tags
+* using wget to backup webpages or an entire website
 
 > If you want funky formatting and alignments, you will need to explore html coding, although do not be dismayed as it can be learned very quickly.  If you want some text in bold, guess what you do in html?  First, you tell it where the bold begins and where the bold ends and that is it!  So \<b\>Something important\</b\> becomes
 
@@ -95,5 +108,10 @@ layout: default
 
 ##Conclusion
 > So now you know how to work with repositories with github and I hope this inpsires you to expand your important linguistic research with others in the field who can both use and expand on it.
+
+> The following are some highly useful links I would recommend:
+* [wget tutorial](http://programminghistorian.org/lessons/automated-downloading-with-wget)
+* [creating pages in markdown (i.e. markdown syntax)](https://daringfireball.net/projects/markdown/syntax)
+* [github privacy pricing](https://github.com/pricing)
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
