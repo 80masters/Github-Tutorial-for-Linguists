@@ -62,15 +62,15 @@ layout: default
 
 > For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p><a href="\test_recording.mp3">Participant 1 Interview</a></p>
+<p><a href="\audio\test_recording.mp3">Participant 1 Interview</a></p>
 
 > Others can then listen to the files after downloading them.
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-> ![funky sound wave](\sound_wave.jpg?raw=true)
+> ![funky sound wave](\images\sound_wave.jpg?raw=true)
 
-{% include figure.html src="..\sound_wave.jpg" caption="funky sound wave" %}
+<p><img src="\images\sound_wave.jpg" alt="Funky Sound Wave"></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
@@ -81,7 +81,7 @@ layout: default
 
 > One of the most powerful aspects of collaboration permitted by github is the fact that anyone can have access to your completed works.  Before you fret, remember that github tracks the changes you make to your repository, so you can always revert back.  Thinking more progressively, others can pick up on additional areas of research or investigate other matters in further detail.  For example, you do a study on repair strategies non-native speakers of a language make when converting a word or group of sounds into their native tongue.  Other researchers might expand by including other groups of sounds or simply model your research with a completely different langauge pair!  In short, github can make it easier for your work to be cited!!
 
-> Referencing is made substantially more user-friendly in terms of being able to check out sources with simple clicks as is the case with hyperlinks embedded in text, photos, and other files.  Trains of thought can migrate to maglev with this capability!
+> Referencing is made substantially more user-friendly in terms of being able to check out sources with simple clicks as is the case with hyperlinks embedded in text, photos, and other files.  Trains of thought can migrate to maglev with this capability!  That said, how will all of you decide who publishes which part with traditional journal article publishing?
 
 > Additional functionalities for github you may be interested in exploring include:
 * inserting tables - not too difficult to do with the | key!
