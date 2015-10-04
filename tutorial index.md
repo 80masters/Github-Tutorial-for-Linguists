@@ -72,7 +72,7 @@ layout: default
 
 > whereas the markdown coding for it would be:
 
-> \!\[Participant 1 Interview\]\(\audio\test_recording.mp3\)
+> \!\[Participant 1 Interview\]\(https\://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//audio/test_recording.mp3\)
 
 > Others can then listen to the files after downloading them.
 
@@ -86,7 +86,7 @@ layout: default
 
 > with the markdown version:
 
->\!\[Funky Sound Wave\]\(https\:\/\/github.com\/80masters/Github-Tutorial-for-Linguists/raw/master//audio/sound_wave.jpg?raw=true\)
+>\!\[Funky Sound Wave\]\(https\://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//images/sound_wave.jpg?raw=true\)
 
 ###Notes:
 > + It is currently unclear to me how to embed audio into markdown even after attempts at using HTML code, but selecting what to download does give power to the user/reader.
@@ -122,7 +122,8 @@ layout: default
 
 > The following are some links I found very useful:
 * [creating pages in markdown (i.e. markdown syntax)](https://daringfireball.net/projects/markdown/syntax)
-* [github privacy pricing](https://github.com/pricing)
+* [github privacy pricing - monthly rates for privacy options](https://github.com/pricing)
+* [HTML formatting - tons of examples here](http://www.w3schools.com/html/html_formatting.asp)
 * [wget tutorial](http://programminghistorian.org/lessons/automated-downloading-with-wget)
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
