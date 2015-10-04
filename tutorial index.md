@@ -38,7 +38,7 @@ layout: default
 2. in the search bar type **tutorial linguists**
 3. click on the link that reads **80masters/github-tutorial-for-linguists**
 4. on the top-right of the screen, you will see a button labelled **Fork**, click it ![Fork](https://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//images/fork.jpg)
-5. on the desktop version, click on the **\+** in the top-left corner
+5. switching to the desktop version of github, click on the **\+** in the top-left corner
 6. click on the word **clone** that should appear near the top-center of the screen
 7. click on **Github-Tutorial-for-Linguists**
 8. click on the checkmark near the bottom-center of your screen 
@@ -46,7 +46,7 @@ layout: default
 
 >If you wanted to make a change to this tutorial like an update or adding a photo or fixing a typo or adding a section on functionality, then you would:
 
-1. open the tutorial index file using Sulbime Text
+1. open the tutorial index file using Sublime Text
 2. make the changes
 3. save the file \(in sublime text\)
 4. on the desktop version of github, select the tutorial github on the far right
@@ -124,6 +124,5 @@ layout: default
 * [creating pages in markdown (i.e. markdown syntax)](https://daringfireball.net/projects/markdown/syntax)
 * [github privacy pricing](https://github.com/pricing)
 * [wget tutorial](http://programminghistorian.org/lessons/automated-downloading-with-wget)
-
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
