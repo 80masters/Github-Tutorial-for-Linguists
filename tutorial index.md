@@ -62,7 +62,7 @@ layout: default
 
 > <p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> [Participant 1 Interview](\test_recording.mp3)
+<p> [Participant 1 Interview](\test_recording.mp3) </p>
 
 > Others can then listen to the files after downloading them.
 
@@ -71,7 +71,7 @@ layout: default
 ![funky sound wave](\sound_wave.jpg?raw=true)
 
 ###Notes:
-+ It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
+> + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
 + With this functionality, you can have impressive appendices and links throughout your work.  I will lieave you with your imagination.
 
 ##Implications for Research
