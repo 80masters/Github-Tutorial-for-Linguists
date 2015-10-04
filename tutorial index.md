@@ -62,13 +62,17 @@ layout: default
 
 > <p> For example, let's say you have a recording of a participant in your study, either for pronunciation analysis or an interview.  You can then include them in the body of your writing as follows:
 
-<p> [Participant 1 Interview](\test_recording.mp3) </p>
+<p> ![Participant 1 Interview](\test_recording.mp3) </p>
 
 > Others can then listen to the files after downloading them.
 
-> Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name.
+> Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name otherwise readers will have to click on it in order to view it and then hit the back button to return.
 
-![funky sound wave](\sound_wave.jpg?raw=true)
+<p><center>![](\sound_wave.jpg?raw=true)</center></p>
+
+<p><center>...as compared against without the raw portion...</center></p>
+
+<p><center>![funky sound wave](\sound_wave.jpg)</center></p>
 
 ###Notes:
 > + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
@@ -79,9 +83,11 @@ layout: default
 
 > One of the most powerful aspects of collaboration permitted by github is the fact that anyone can have access to your completed works.  Before you fret, remember that github tracks the changes you make to your repository, so you can always revert back.  Thinking more progressively, others can pick up on additional areas of research or investigate other matters in further detail.  For example, you do a study on repair strategies non-native speakers of a language make when converting a word or group of sounds into their native tongue.  Other researchers might expand by including other groups of sounds or simply model your research with a completely different langauge pair!  In short, github can make it easier for your work to be cited!!
 
+> Referencing is made substantially more user-friendly in terms of being able to check out sources with simple clicks as is the case with hyperlinks embedded in text, photos, and other files.  Trains of thought can migrate to maglev with this capability!
+
 > Additional functionalities for github you may be interested in exploring include:
 * inserting tables - not too difficult to do with the | key!
 * insert diagrams \(in the form of pictures\)
-* creating pdf from markdown files 
+* creating pdfs from markdown files 
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
