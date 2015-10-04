@@ -68,7 +68,7 @@ layout: default
 
 > Pictures, diagrams, and illustrations work in a similar way, but can open directly on the page, as seen with the example below.  Just remember to type ?raw=true at the end of the file name.
 
-![funky sound wave](http://ecx.images-amazon.com/images/I/41BKfqKRYZL._SY450_.jpg?raw=true)
+![funky sound wave](\sound_wave.jpg?raw=true)
 
 ###Notes:
 + It is currently unclear to me how to embed sounds into markdown even after attempts at using html code, but downloading is not such a bad option to save on RAM, but anyway.
