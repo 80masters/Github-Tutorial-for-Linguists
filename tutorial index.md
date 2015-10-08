@@ -2,7 +2,7 @@
 title: Github Tutorial for Linguistics
 author:
 - Richard Soulliere
-date: 2015-10-07
+date: 2015-10-08
 reviewers:
 
 layout: default
@@ -54,7 +54,8 @@ You could stop here and do stuff only online, but that I find a little cumbersom
 
 5. open the desktop version of github
 6. click on the **\+** in the top-left corner
-7. click on **clone to desktop** that should appear near the top-center of the screen
+7. click on **clone in desktop** that should appear near the top-center of the screen
+<p><img src="\images\clone.jpg" alt="Clone"></p>
 8. click on **Github-Tutorial-for-Linguists**
 9. click on the checkmark near the bottom-center of your screen 
 
