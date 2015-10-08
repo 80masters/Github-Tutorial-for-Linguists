@@ -103,7 +103,7 @@ with the markdown version:
 ###Notes:
 + Files created with markdown coding do not allow embedding of sound files.  It would not be possible to convert these to HTML, doc, and pdf files is that was the case!  Still, giving the power of choosing what to download to the user/reader is fine.
 + With this multi-modal functionality, you can have impressive appendices and links throughout your work.  I will leave you with your imagination.
-+ The markdown coding for your files will depend on your username, the folder structure you use, and the names you give your files.  In the sound wave example,, 80 masters is my user name, then there's the name I gave the repository, raw and master are required along with the double-slash, then the sub-folder within the repository, then the file name.  Practice once, get it right, then copy and paste!
++ The markdown coding for your files will depend on your username, the folder structure you use, and the names you give your files.  In the sound wave example; 80masters is my user name, then there's the name I gave the repository, raw and master are required along with the double-slash, then the sub-folder within the repository, then the file name.  Practice once, get it right, then copy and paste!
 + Clearly, HTML is simpler as it only requires the folder structure and file name. The stuff after alt is the caption.
 
 <a name="sync"></a>
