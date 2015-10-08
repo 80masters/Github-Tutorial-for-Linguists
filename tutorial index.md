@@ -59,7 +59,8 @@ You could stop here and do stuff only online, but that I find a little cumbersom
 
 You now have an additional folder on your computer in the github folder you chose when installing github. In that additional folder you will find the files for this tutorial that you can edit, copy-n-paste, and/or delete at your leisure!
 
-###Problem: You now have 2 versions.  The online version \(you will unlikely edit directly unless you are using someone else's computer\) and the one on your computer \(which you will be playing around with\).  For now, stick with using the one on your desktop while I first show you how to work with these files.  Then, we will keep the version on your desktop in sync with the online version and then take the modifications you made and tell me to incoporate them into the original \(unless you write a tutorial on something completely different, in which case, great\).
+###Problem:
+You now have 2 versions.  The online version \(you will unlikely edit directly unless you are using someone else's computer\) and the one on your computer \(which you will be playing around with\).  For now, stick with using the one on your desktop while I first show you how to work with these files.  Then, we will keep the version on your desktop in sync with the online version and then take the modifications you made and tell me to incoporate them into the original \(unless you write a tutorial on something completely different, in which case, great\).
 
 ###Notes:
 + You can add files to the tutorial repository simply by copying them to that folder.  They will be uploaded as part of step 7 \(Commit to master\).
