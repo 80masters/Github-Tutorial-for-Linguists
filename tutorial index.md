@@ -17,14 +17,14 @@ Hello (applied) linguists!  In an effort to colloborate and share your work, I h
 * share your research easily with others
 * enable you to integrate content from multiple sources \(i.e. multi-modal\)
 
-Github can enable you to do so much more, but the following tutorial covers the basics.  Here I describe:
+Github can enable you to do so much more, but the following tutorial covers the basics.  Here I describe how to:
 
-<p><a href="#install">download and install github</a></p>
-<p><a href="#fork">fork - meaning to get repositories others have created</a></p>
-<p><a href="#work">work with file repositories both you and others create</a></p>
-<p><a href="#sync">keeping nsync</a></p>
-<p><a href="#imp">implications for your research</a></p> 
-<p><a href="#conclude">some concluding thoughts and useful links/references</a></p> 
+<p><li><a href="#install">download and install github</a></li>
+<li><a href="#fork">fork - meaning to get repositories others have created</a></li>
+<li><a href="#work">work with file repositories both you and others create</a></li>
+<li><a href="#sync">keeping nsync</a></li>
+<li><a href="#imp">implications for your research</a></li>
+<li><a href="#conclude">some concluding thoughts and useful links/references</a></li></p> 
 
 <a name="install"></a>
 ##First Steps: Download & Install
@@ -59,7 +59,7 @@ You could stop here and do stuff only online, but that I find a little cumbersom
 
 You now have an additional folder on your computer in the github folder you chose when installing github. In that additional folder you will find the files for this tutorial that you can edit, copy-n-paste, and/or delete at your leisure!
 
-Problem: You now have 2 versions.  The online version \(you will unlikely edit directly unless you are using someone else's computer\) and the one on your computer \(which you will be playing around with\).  For now, stick with using the one on your desktop while I first show you how to work with these files.  Then, we will keep the version on your desktop in sync with the online version and then take the modifications you made and tell me to incoporate them into the original \(unless you write a tutorial on something completely different, in which case, great\).
+###Problem: You now have 2 versions.  The online version \(you will unlikely edit directly unless you are using someone else's computer\) and the one on your computer \(which you will be playing around with\).  For now, stick with using the one on your desktop while I first show you how to work with these files.  Then, we will keep the version on your desktop in sync with the online version and then take the modifications you made and tell me to incoporate them into the original \(unless you write a tutorial on something completely different, in which case, great\).
 
 ###Notes:
 + You can add files to the tutorial repository simply by copying them to that folder.  They will be uploaded as part of step 7 \(Commit to master\).
