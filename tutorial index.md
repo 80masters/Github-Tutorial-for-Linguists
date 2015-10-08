@@ -118,7 +118,7 @@ Ok, so you have done lots of modifications to the version of this tutorial on yo
 5. then click on the broken circle
 <p><img src="\images\broken _circle.JPG" alt="broken circle"></p>
 6. type in a brief description of the change \(if you don't do this then you can't sync\)
-<p><img src="\images\commit_prep.jpg" alt="Commit to Master area"></p>
+<p><img src="\images\commit_prep.JPG" alt="Commit to Master area"></p>
 7. click on *Commit to Master* near the bottom-center of your screen
 8. click on sync near the top-right of your screen
 <p><img src="\images\top-right-syncing.JPG" alt="Top-Right area"></p>
