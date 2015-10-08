@@ -128,6 +128,8 @@ Ok, so you have done lots of modifications to the version of this tutorial on yo
 
 As soon as syncing has been completed, the updates to the version you forked are now available online. The next question is how to take those modifications and tell me that you want them on my master copy \(seeing as everyone who has forked my version would likely want to see your updates, too\).  This requires you to make a pull request.  How do you do that?
 
+You see in the image above with the sync button how there's also a pull request button?  If and only if you have actually made some changes, then you can click on the pull request button.
+
 <a name="imp"></a>
 ##Implications for Research
 Two of the biggest considerations for research are copyright and, by extension, ethics.  To start with, [Creative Commons license](https://creativecommons.org/licenses/) should be stated.  Also, if others have access to the files you post and any of them contain data directly from participants in your study, this will need to be reflected in your ethics form all study participants are required to sign before participating.
