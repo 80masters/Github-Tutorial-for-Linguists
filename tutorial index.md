@@ -47,7 +47,8 @@ One thing you can do to give yourself a leg up if you have not worked with githu
 1. go to the [github website](https://github.com) and login if you already haven't
 2. in the search bar type **tutorial linguists**
 3. click on the link that reads **80masters/github-tutorial-for-linguists**
-4. on the top-right of the screen, you will see a button labelled **Fork**, click it ![Fork](https://github.com/80masters/Github-Tutorial-for-Linguists/raw/master//images/fork.jpg)
+4. on the top-right of the screen, you will see a button labelled **Fork**, click it
+<p><img src="\images\fork.jpg" alt="Fork"></p>
 
 You could stop here and do stuff only online, but that I find a little cumbersome, so take it to the next level and continue.
 
