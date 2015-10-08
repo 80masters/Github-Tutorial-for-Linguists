@@ -19,7 +19,7 @@ Hello (applied) linguists!  In an effort to colloborate and share your work, I h
 
 Github can enable you to do so much more, but the following tutorial covers the basics.  Here I describe how to:
 
-<p><ul style="list-style-type:none"><li><a href="#install">download and install github</a></li>
+<p><ul style="list-style-type: none outside none"><li><a href="#install">download and install github</a></li>
 <li><a href="#fork">fork - meaning to get repositories others have created</a></li>
 <li><a href="#work">work with file repositories both you and others create</a></li>
 <li><a href="#sync">keeping nsync</a></li>
