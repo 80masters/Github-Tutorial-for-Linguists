@@ -1,14 +1,3 @@
----
-title: Github Tutorial for Linguistics
-author:
-- Richard Soulliere
-date: 2015-10-10
-reviewers:
-
-layout: default
----
-
-
 #Github Tutorial for Linguists
 
 Hello (applied) linguists!  In an effort to colloborate and share your work, I have created this mini-tutorial for you to make use of a powerful tool that will:
